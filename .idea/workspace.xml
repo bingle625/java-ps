@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53733aaa-0cc8-4ef0-801f-acddc881d425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Problem1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/Problem2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -89,7 +90,7 @@
       <workItem from="1721723744362" duration="27000" />
       <workItem from="1721723779528" duration="2192000" />
       <workItem from="1722617708704" duration="793000" />
-      <workItem from="1722618507214" duration="486000" />
+      <workItem from="1722618507214" duration="4175000" />
     </task>
     <servers />
   </component>
