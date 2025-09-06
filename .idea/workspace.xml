@@ -6,13 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="53733aaa-0cc8-4ef0-801f-acddc881d425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_ps.sh" beforeDir="false" afterPath="$PROJECT_DIR$/create_ps.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/leet_code_1_two_sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/leet_code_2_Add_Two_Numbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/leet_code_3_longest_substring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/leet_code_4_median_of_two_sorted_arrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/leet_code_5_longest_palindromic_substring.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/leet_code_5_longest_palindromic_substring_풀이.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems/boj/BOJ_1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/boj/BOJ_1000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problems/leetcode/LC_6_zigzag_conversion_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/leetcode/LC_6_zigzag_conversion_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +50,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BOJ_1001.executor": "Run",
+    "Application.BOJ_1008.executor": "Run",
+    "Application.BOJ_1330.executor": "Run",
     "Application.LC_6_zigzag_conversion_2.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -84,7 +82,59 @@
       <recent name="problems" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LC_6_zigzag_conversion_2">
+  <component name="RunManager" selected="Application.BOJ_2438">
+    <configuration name="BOJ_1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_1001" />
+      <module name="java-ps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_1008" />
+      <module name="java-ps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_1330" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_1330" />
+      <module name="java-ps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_2438" />
+      <module name="java-ps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problems.boj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LC_6_zigzag_conversion_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problems.leetcode.LC_6_zigzag_conversion_2" />
       <module name="java-ps" />
@@ -98,17 +148,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="java-ps" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ_2438" />
+        <item itemvalue="Application.BOJ_1330" />
+        <item itemvalue="Application.BOJ_1008" />
+        <item itemvalue="Application.BOJ_1001" />
         <item itemvalue="Application.LC_6_zigzag_conversion_2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +194,7 @@
       <workItem from="1751091489753" duration="1906000" />
       <workItem from="1751094285553" duration="2320000" />
       <workItem from="1751105735277" duration="116000" />
-      <workItem from="1757134629122" duration="8604000" />
+      <workItem from="1757134629122" duration="14569000" />
     </task>
     <servers />
   </component>
