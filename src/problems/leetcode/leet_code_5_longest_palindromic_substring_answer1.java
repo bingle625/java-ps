@@ -1,6 +1,6 @@
-package problems;
+package problems.leetcode;
 
-public class leet_code_5_longest_palindromic_substring_풀이 {
+public class leet_code_5_longest_palindromic_substring_answer1 {
 	public void solve() {
 		System.out.println(longestPalindrome("aebcb"));
 		System.out.println(longestPalindrome("abcbbcbba"));

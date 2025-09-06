@@ -1,10 +1,6 @@
-package problems;
+package problems.leetcode;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
-import java.util.stream.IntStream;
 
 public class leet_code_4_median_of_two_sorted_arrays {
 

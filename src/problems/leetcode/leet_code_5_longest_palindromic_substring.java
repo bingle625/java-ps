@@ -1,6 +1,4 @@
-package problems;
-
-import java.util.ArrayDeque;
+package problems.leetcode;
 
 public class leet_code_5_longest_palindromic_substring {
 	public void solve() {
