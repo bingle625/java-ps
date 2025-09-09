@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="53733aaa-0cc8-4ef0-801f-acddc881d425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/boj/BOJ_1000.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/boj/BOJ_1000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problems/leetcode/LC_6_zigzag_conversion_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problems/leetcode/LC_6_zigzag_conversion_2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,29 +46,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BOJ_1001.executor": "Run",
-    "Application.BOJ_1008.executor": "Run",
-    "Application.BOJ_1330.executor": "Run",
-    "Application.LC_6_zigzag_conversion_2.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/hanseongjae/Projects/custom_projects/problem_solve/java/java-ps/src/problems/leetcode",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/hanseongjae/Projects/custom_projects/problem_solve/java/java-ps/assets/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BOJ_1001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_1008.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_10869.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_10871.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_10950.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_1330.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_2438.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_2557.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_2739.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_2741.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_2753.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ_9498.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC_6_zigzag_conversion_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC_6_zigzag_conversion_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC_7_reverse_integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LC_Longest_Palindromic_Substring_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/hanseongjae/Projects/custom_projects/problem_solve/java/java-ps/src/problems/leetcode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/hanseongjae/Projects/custom_projects/problem_solve/java/java-ps/assets/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/problems/leetcode" />
@@ -82,9 +92,9 @@
       <recent name="problems" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ_2438">
-    <configuration name="BOJ_1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_1001" />
+  <component name="RunManager" selected="Application.BOJ_10950">
+    <configuration name="BOJ_10869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_10869" />
       <module name="java-ps" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_1008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_1008" />
+    <configuration name="BOJ_10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_10871" />
       <module name="java-ps" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_1330" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_1330" />
+    <configuration name="BOJ_10950" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_10950" />
       <module name="java-ps" />
       <extension name="coverage">
         <pattern>
@@ -122,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.boj.BOJ_2438" />
+    <configuration name="LC_6_zigzag_conversion_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.leetcode.LC_6_zigzag_conversion_3" />
       <module name="java-ps" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="problems.boj.*" />
+          <option name="PATTERN" value="problems.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC_6_zigzag_conversion_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problems.leetcode.LC_6_zigzag_conversion_2" />
+    <configuration name="LC_Longest_Palindromic_Substring_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problems.leetcode.LC_Longest_Palindromic_Substring_3" />
       <module name="java-ps" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ_2438" />
-        <item itemvalue="Application.BOJ_1330" />
-        <item itemvalue="Application.BOJ_1008" />
-        <item itemvalue="Application.BOJ_1001" />
-        <item itemvalue="Application.LC_6_zigzag_conversion_2" />
+        <item itemvalue="Application.BOJ_10950" />
+        <item itemvalue="Application.BOJ_10871" />
+        <item itemvalue="Application.BOJ_10869" />
+        <item itemvalue="Application.LC_Longest_Palindromic_Substring_3" />
+        <item itemvalue="Application.LC_6_zigzag_conversion_3" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +204,10 @@
       <workItem from="1751091489753" duration="1906000" />
       <workItem from="1751094285553" duration="2320000" />
       <workItem from="1751105735277" duration="116000" />
-      <workItem from="1757134629122" duration="14569000" />
+      <workItem from="1757134629122" duration="15410000" />
+      <workItem from="1757214402541" duration="7567000" />
+      <workItem from="1757331919120" duration="6743000" />
+      <workItem from="1757343270339" duration="14000" />
     </task>
     <servers />
   </component>
@@ -208,6 +221,16 @@
           <url>file://$PROJECT_DIR$/assets/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problems/leetcode/LC_6_zigzag_conversion_3.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/problems/leetcode/LC_6_zigzag_conversion_3.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
