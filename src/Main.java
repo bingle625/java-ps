@@ -16,6 +16,8 @@ public class Main {
                 .sorted(Comparator.comparingLong(File::lastModified).reversed())
                 .collect(Collectors.toList());
 
+        String[] arr = packageName.split(" ");
+        int length = arr.length;
         // 상위 5개의 클래스 이름 추출
         List<String> top5ClassNames = classFiles.stream()
                 .limit(5)
