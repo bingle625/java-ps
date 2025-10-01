@@ -70,13 +70,17 @@ fi
 cat <<EOF > "$CLASS_FILE"
 ${PACKAGE_DECLARATION}
 
+import java.io.*;
+
 public class ${FULL_CLASS_NAME} {
-    public void solve() {
-        System.out.println("Solving ${FULL_CLASS_NAME}");
+    public void solve() throws IOException {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        String line = reader.readLine(); // 입력 한 줄 받기
+        System.out.println(line);        // 디버깅 출력 (문제에 맞게 수정)
         // 문제 해결 코드 작성
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         new ${FULL_CLASS_NAME}().solve();
     }
 }
