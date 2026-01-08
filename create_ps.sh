@@ -70,11 +70,17 @@ fi
 cat <<EOF > "$CLASS_FILE"
 ${PACKAGE_DECLARATION}
 
+import java.io.*;
+import java.util.*;
+
 public class ${FULL_CLASS_NAME} {
-    public void solve(){
+    public void solve() throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        // 예시: 한 줄 입력
+        // String line = br.readLine();
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         new ${FULL_CLASS_NAME}().solve();
     }
 }
